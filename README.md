@@ -47,6 +47,12 @@ Arsitektur RAG didesain dengan pertimbangan akurasi dan kemandirian sistem:
 **Kesimpulan & Rekomendasi:**
 Sistem telah berjalan sangat baik dan berhasil menyaring informasi kebijakan yang sudah usang di level _database_. Penggunaan _embedding_ lokal mempercepat inisialisasi awal. Sebagai rekomendasi perbaikan, ke depannya sistem dapat dilengkapi dengan fitur _memory chat history_ agar dapat melayani pertanyaan lanjutan (_follow-up questions_) dari pengguna.
 
+**Tautan Penting:**
+
+- **Repositori GitHub:** https://github.com/windydwifebrianti/final-project-nusantaracare.git
+- **Live API (FastAPI Cloud):** https://rag-agentic-nusantaracare.fastapicloud.dev
+- **Documentation at** https://rag-agentic-nusantaracare.fastapicloud.dev/docs
+
 **Struktur Repositori:**
 
 ```text
